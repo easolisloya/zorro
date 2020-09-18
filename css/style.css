@@ -1,0 +1,64 @@
+body {
+    margin: 0 auto;
+}
+
+header {
+    position: sticky;
+    top: 20px;
+}
+
+.nav-bar {
+    height: 70px;
+    width: 100%;
+    background-color:rgb(0,114,80,.7);
+    display: inline-block;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+}
+
+.nav-list {
+    float: right;
+    list-style-type: none;
+}
+
+}
+.list-items {
+    display: inline-block;
+    padding: 3px;
+    text-decoration: none;
+    background-color: #daa520;
+    margin-right: 20px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 6px;
+    color: green;
+}
+
+.list-item a {
+    text-decoration: none;
+}
+
+.list-item:hover {
+    color: white;
+}
+
+.list-item a:visited {
+    color: black;
+}
+
+img {
+    height; 700px;
+    width: 100%;
+    /* background-image: url("../img/Zorro1.jpg"); */
+    background-size: cover;
+}
+
+.heading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+}
