@@ -3,7 +3,7 @@ body {
 }
 
 .youtubecol {
-    height: 400px;
+    height: 350px;
     width: 570px;
     background-color: black;
     border: 3px solid red;
@@ -12,10 +12,10 @@ body {
     margin-left: 100px;
 }
 
-/* .youtubevideo {
-    margin-top: 40px;
-    margin-left: 65px;
-} */
+.youtubevideo {
+    margin-top: 15px;
+    margin-left: 2px;
+}
 
 .audiocol {
     height: 200px;
