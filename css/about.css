@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(199, 157, 108, 0.418);
+}
+
+.youtubecol {
+    height: 400px;
+    width: 570px;
+    background-color: black;
+    border: 3px solid red;
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+/* .youtubevideo {
+    margin-top: 40px;
+    margin-left: 65px;
+} */
+
+.audiocol {
+    height: 200px;
+    width: 600px;
+    display: inline-block;
+    margin-left: 70px;
+    clear: right;
+}
+
+audio {
+    margin-top: 50px;
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+
+.youtubedesc {
+    height: 300px;
+    width: 570px;
+    float: left;
+    margin-left: 100px;
+}
+
+.audiodesc {
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 320px;
+}
